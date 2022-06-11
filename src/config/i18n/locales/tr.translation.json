@@ -1,0 +1,33 @@
+{
+  "home": {
+    "title": "Anasayfa",
+    "form": {
+      "title": "Başlık",
+      "body": "Mesaj",
+      "validation": {
+        "title-required": "boş geçemezsin",
+        "title-max": "maksimum {{num}} karakter",
+        "body-required": "boş olamaz"
+      }
+    },
+    "buttons": {
+      "submit": "Ekle",
+      "reset": "Yenile",
+      "delete": "Sil",
+      "update": "Güncelle"
+    }
+  },
+  "about": {
+    "title": "Hakkında sayfa",
+    "back": "Anasayfaya geri dön"
+  },
+  "company": {
+    "title": "React Developer"
+  },
+  "navigation": {
+    "links": {
+      "home": "Anasayfa",
+      "about": "Hakkımızda"
+    }
+  }
+}
