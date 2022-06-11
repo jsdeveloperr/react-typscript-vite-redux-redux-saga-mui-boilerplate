@@ -1,7 +1,5 @@
 # React Typscript Vite Redux Redux Saga Mui Boilerplate
 
-![Build](https://github.com/jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate/workflows/Build/badge.svg)
-
 ## Installation
 
 Requires Node >=14.x
