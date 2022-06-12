@@ -39,7 +39,7 @@ export const PostCardView = (props: PostCardViewProps) => {
       <Grid xs={12} item key={post.id}>
         <Paper elevation={2} style={styles.Paper}>
           <span>
-            <strong>{post.title} Test</strong> - {post.body}
+            <strong>{post.title}</strong> - {post.body}
           </span>
           <br />
           <IconButton
