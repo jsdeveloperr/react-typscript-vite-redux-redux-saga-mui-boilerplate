@@ -19,10 +19,14 @@ https://yarnpkg.com/lang/en/docs/install/
 Clone and install Yarn dependencies:
 
 ```bash
-$ git clone git@github.com:jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate.git
+$ git clone https://github.com/jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate.git
 $ cd react-typscript-vite-redux-redux-saga-mui-boilerplate
 $ yarn
 ```
+
+<p align="center">
+    <img src="https://github.com/jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate/blob/master/src/assets/react-typscript-vite-redux-redux-saga-mui-boilerplate.gif" width="500" alt="react-typscript-vite-redux-redux-saga-mui-boilerplate" />
+</p>
 
 ### 🗂 Features
 
