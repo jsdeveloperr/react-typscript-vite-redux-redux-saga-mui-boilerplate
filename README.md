@@ -3,7 +3,7 @@
 > This is a readme from React Typscript Vite Redux Redux Saga Mui Boilerplate.
 
 <p align="center">
-    <img src="https://github.com/jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate/tree/master/src/assets/react-typscript-vite-redux-redux-saga-mui-boilerplate.png" width="500" alt="react-typscript-vite-redux-redux-saga-mui-boilerplate" />
+    <img src="https://github.com/jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate/blob/master/src/assets/react-typscript-vite-redux-redux-saga-mui-boilerplate.png" width="500" alt="react-typscript-vite-redux-redux-saga-mui-boilerplate" />
 </p>
 
 ## ✅ Installation
