@@ -1,6 +1,12 @@
-# React Typscript Vite Redux Redux Saga Mui Boilerplate
+# 📦 React Typscript Vite Redux Redux Saga Mui Boilerplate
 
-## Installation
+> This is a readme from React Typscript Vite Redux Redux Saga Mui Boilerplate.
+
+<p align="center">
+    <img src="https://github.com/jsdeveloperr/react-typscript-vite-redux-redux-saga-mui-boilerplate/tree/master/src/assets/react-typscript-vite-redux-redux-saga-mui-boilerplate.png" width="500" alt="react-typscript-vite-redux-redux-saga-mui-boilerplate" />
+</p>
+
+## ✅ Installation
 
 Requires Node >=14.x
 
@@ -17,6 +23,19 @@ $ git clone git@github.com:jsdeveloperr/react-typscript-vite-redux-redux-saga-mu
 $ cd react-typscript-vite-redux-redux-saga-mui-boilerplate
 $ yarn
 ```
+
+### 🗂 Features
+
+- 🔥 [React.js](https://reactjs.org)
+- 🎨 Integrate with [MUI](https://mui.com/)
+- 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
+- ✅ Strict Mode for TypeScript and React 18
+- ✏️ Linter with [ESLint](https://eslint.org) (default NextJS, NextJS Core Web Vitals and Airbnb configuration)
+- 🛠 Code Formatter with [Prettier](https://prettier.io)
+- 🦊 Husky for Git Hooks
+- 🚫 Lint-staged for running linters on Git staged files
+- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
+- 🌈 Include a FREE minimalist theme
 
 ## Development
 
